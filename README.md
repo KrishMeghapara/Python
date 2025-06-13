@@ -1,7 +1,9 @@
-# 🐍 Python
+# 🐍 **Python**  
+
+![Python Banner](https://via.placeholder.com/1000x300?text=Python+Repository+by+Krish+Meghapara)  
 
 Welcome to my **Python** repository! 🌟  
-Here you'll find a collection of my coding practice, mini-projects, and helpful snippets — all implemented in **Python**.  
+Here you'll find a collection of my coding practice, mini-projects, and helpful snippets — all implemented in **Python**.
 
 ## 🔹 Introduction
 
@@ -26,7 +28,3 @@ To clone this repository:
 ```bash
 git clone https://github.com/KrishMeghapara/Python.git
 cd Python
-
-``` 
-
-✅ If you'd like, I can **add badges, GIFs, custom headers, or even a visitor counter** to make it look even more sophisticated. Just let me know! 🌟
