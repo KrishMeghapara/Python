@@ -1,6 +1,5 @@
 # 🐍 **Python**  
 
-![Python Banner](https://via.placeholder.com/1000x300?text=Python+Repository+by+Krish+Meghapara)  
 
 Welcome to my **Python** repository! 🌟  
 Here you'll find a collection of my coding practice, mini-projects, and helpful snippets — all implemented in **Python**.
